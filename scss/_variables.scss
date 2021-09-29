@@ -11,12 +11,13 @@ $resolutionDesktop: 1000px;
     $colorPrimaryTextVeryDarkDesaturatedBlue: hsl(238, 29%, 16%);
     $colorPrimaryTextSoftRed: hsl(14, 88%, 65%);
 
-    // Gradient
+    // Background
+      //Background gradient:
+      $colorBgSoftViolet: hsl(273, 75%, 66%);
+      $colorBgSoftBlue: hsl(240, 73%, 65%);
 
-    //Background gradient:
-
-    $colorBgSoftViolet: hsl(273, 75%, 66%);
-    $colorBgSoftBlue: hsl(240, 73%, 65%);
+      // background
+      $colorBgWhite: hsl(255, 0%, 100%);
 
   // Neutral
 
